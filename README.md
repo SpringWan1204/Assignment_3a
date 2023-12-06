@@ -22,4 +22,4 @@ Below you'll find a table with a list of the variables in this dataset and a bri
 | `GmScMovingZTop2Delta` | difference between top 2 games' z-scores |
 | `Date2` | date of second game | 
 | `GmSc2` | Gamescore of second game |
-| `GmScMovingZ2` | z-score of second game from moving average  | 
+| `GmScMovingZ2` | z-score of second game from moving average  |
