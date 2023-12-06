@@ -5,9 +5,9 @@ Below you'll find a table with a list of the variables in this dataset and a bri
 | Header       | Description                              |
 | ------------ | ---------------------------------------- |
 | `Countries and Areas` | Name of the countries and areas|
-| `Date` | date of game |
-| `Tm` | player's team during game | 
-| `Opp` | opponent team during game | 
+| `Latitude` | Latitude coordinates of the geographical location |
+| `Longitude` |  Longitude coordinates of the geographical location | 
+| `OOSR_Pre0Primary_Age_Male` | Out-of-school rate for pre-primary age males | 
 | `TRB` | total rebounds |
 | `AST` | assists | 
 | `STL` | steals | 
