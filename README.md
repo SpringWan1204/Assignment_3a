@@ -4,7 +4,7 @@ An assignment for course Collecting Data to be used for practice.
 Below you'll find a table with a list of the variables in this dataset and a brief description of what they are.
 | Header       | Description                              |
 | ------------ | ---------------------------------------- |
-| `bbrID` | basketball-reference player id |
+| `Countries and Areas` | Name of the countries and areas|
 | `Date` | date of game |
 | `Tm` | player's team during game | 
 | `Opp` | opponent team during game | 
