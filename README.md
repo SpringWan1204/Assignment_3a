@@ -25,7 +25,7 @@ Below you'll find a table with a list of the variables in this dataset and a bri
 | `Grade_2_3_Proficiency_Math` | Proficiency in math for grade 2-3 students |
 | `Primary_End_Proficiency_Reading` | Proficiency in reading at the end of primary education |
 | `Primary_End_Proficiency_Math` | Proficiency in math at the end of primary education |
-| `Lower_Secondary_End_Proficiency_Reading: ` | Proficiency in reading at the end of lower secondary education |
+| `Lower_Secondary_End_Proficiency_Reading` | Proficiency in reading at the end of lower secondary education |
 | `Lower_Secondary_End_Proficiency_Math` | Proficiency in math at the end of lower secondary education |
 | `Youth_15_24_Literacy_Rate_Male` | Literacy rate among male youths aged 15-24 |
 | `Youth_15_24_Literacy_Rate_Female` | Literacy rate among female youths aged 15-24 |
