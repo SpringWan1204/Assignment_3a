@@ -54,5 +54,7 @@ Below you'll find a table with a list of the variables in this dataset and a bri
 + **Socioeconomic Impact:** Study the relationship between education and unemployment rates.
 + **Geospatial Analysis:** Explore geographical patterns of education indicators.
 
+This assignment only explores two questions: (1)Evaluate the status of tertiary education in different countries and areas; (2) Analyze the relationship between tertiary education enrollment and the unemployment rate.
+
 
 
