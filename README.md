@@ -47,7 +47,7 @@ Below you'll find a table with a list of the variables in this dataset and a bri
 | `Unemployment_Rate` | Unemployment rate in the respective countries/areas |
 
 ## Potential Use Cases
-+**Global Education Analysis:** Evaluate the status of education in different countries and regions, identifying disparities and trends.
++ **Global Education Analysis:** Evaluate the status of education in different countries and regions, identifying disparities and trends.
 **Gender Disparities:** Analyze gender-based differences in education, including out-of-school rates and literacy.
 **Education Policy Evaluation:** Use completion rates to assess the effectiveness of education policies.
 **Proficiency Analysis:** Investigate students' proficiency in reading and math at different education levels.
