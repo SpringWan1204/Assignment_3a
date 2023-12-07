@@ -1,5 +1,17 @@
 # Assignment_3a
-An assignment for course Collecting Data to be used for practice.
+## Instruction
+The dataset provides a comprehensive perspective on global education and supplies important information for understanding the different education systems around the world. It covers some key indicators such as out-of-school rate, completion rate, proficiency in reading and math, literacy rate, birth rate, and gross enrollment in primary and tertiary education. It is a valuable resource for researchers, educators, and policymakers who want to assess and improve education systems around the world.
+
+Dataset creator: Nidula Elgiriyewithana, a skilled Data Scientist based in Colombo, Western Province, Sri Lanka.
+
+Dataset source: https://www.kaggle.com/datasets/nelgiriyewithana/world-educational-data/data
+
+Update:
+Out of school rate - UNESCO Institute for Statistics (last updated in March 2021)
+Completion rate - UNICEF Global Database (last updated in April 2021)
+Proficiency in reading and math - United Nations Statistics Division database (last updated in June 2021).
+Youth literacy rate - UNESCO Institute for Statistics (last updated in March 2021).
+
 ## Metadata
 Below you'll find a table with a list of the variables in this dataset and a brief description of what they are.
 | Header       | Description                              |
